@@ -13,5 +13,5 @@ My unique background in both experimental studies and computational analysis ena
 - Effective in mass-spectrometry data analysis: MaxQuant, Mascot, X!Tandem, SearchGUI, PEAKS;
 - Skilled at Ribo-seq, RNA-seq и nanopore sequencing: Bowtie, Hisat2, Trimgalore, Trimmomatic, FeatureCounts, edgeR, Guppy 4, minimap, StringTie, scanpy
 - Effective in alignment of DNA and protein sequences (MAFFT, Clustal, Muscle, T-coffee, etc.) and phylogenetic analysis (Phylip package, PhyML, MEGA, HyPhy, etc.)
-- Skilled at protein structure prediction (ESM, AlphaFold2, foldseek, DALI)
+- Skilled at protein structure prediction (ESMFold, AlphaFold2, foldseek, DALI)
 
