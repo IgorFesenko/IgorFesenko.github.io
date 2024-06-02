@@ -40,10 +40,10 @@ Lecturer at the Department of Genetics
 - Developing and teaching undergraduate courses in “Genetics,” "Molecular Biology," and "Molecular Genetics" 
 
 ## Projects
-**Project 1** (link to project site or GitHub repo)  
+**Uncovering the role of microproteins in bacterial genomes** ([link](https://github.com/IgorFesenko/prokariotic_smORFs))  
 - Description of tech used and what the project involved/accomplished
 - Accomplishment 
 
-**Project 2** (link)
+**Studying the roles of long non-coding RNAs in formation of plant cell proteome** ([link](https://github.com/IgorFesenko/smORF_analysis))
 - Description 
 - Accomplishment
