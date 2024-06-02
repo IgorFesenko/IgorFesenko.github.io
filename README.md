@@ -40,12 +40,15 @@ Russian State Agrarian University
  
 **Analysis of plant and animal peptidomes** ([link](https://github.com/IgorFesenko/Peptidome_review))
 - Methods for the extraction and analysis of endogenous peptides were developed
+- 
 
 ## Education
 
 **Dr.Sc. in Molecular Biology (Habilitation)** | Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow | 2022
 
 **Ph.D. in Genetics** | Russian State Agrarian University, Russia, Moscow | 2005
+
+
 
 ## Publications 
 Book Chapter:
