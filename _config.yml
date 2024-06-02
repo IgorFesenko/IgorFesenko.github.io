@@ -14,3 +14,9 @@ theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
+
+social_links:
+  twitter: https://twitter.com/FesenkoIgor
+  github: https://github.com/IgorFesenko
+  linkedin: https://www.linkedin.com/in/igor-fesenko-0a83691a8
+
