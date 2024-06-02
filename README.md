@@ -47,5 +47,5 @@ Lecturer at the Department of Genetics
 **Studying the roles of long non-coding RNAs in formation of plant cell proteome** ([link](https://github.com/IgorFesenko/smORF_analysis))
 - New families of functional peptides that are coded by small ORFs in different groups of plants were found 
  
-**Analysis of plant and animal peptidomes** ([[link](https://github.com/IgorFesenko/Peptidome_review))
+**Analysis of plant and animal peptidomes** ([link](https://github.com/IgorFesenko/Peptidome_review))
 - Methods for the extraction and analysis of endogenous peptides were developed
