@@ -42,9 +42,10 @@ Lecturer at the Department of Genetics
 
 ## Projects 
 **Uncovering the role of microproteins in bacterial genomes** ([link](https://github.com/IgorFesenko/prokariotic_smORFs))  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
+- I systematically examined their coding potential, structural features, evolutionary conservation, and selection regime of small genes in Enterobacteriaceae genomes. 
 
 **Studying the roles of long non-coding RNAs in formation of plant cell proteome** ([link](https://github.com/IgorFesenko/smORF_analysis))
-- Description 
-- Accomplishment
+- New families of functional peptides that are coded by small ORFs in different groups of plants were found 
+ 
+**Analysis of plant and animal peptidomes** ([link](https://github.com/IgorFesenko/smORF_analysis))
+- Methods for the extraction and analysis of endogenous peptides were developed
