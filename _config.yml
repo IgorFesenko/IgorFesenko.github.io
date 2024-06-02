@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+title: Igor Fesenko, Ph.D. # Add a space after the period
+
+#logo: Me.png # Use a relative path to logo image 
+
+description: Computational Biologist. # Fix hyphenation 
+
+#show_downloads: false # Fix spelling
+
+theme: jekyll-theme-cayman 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
