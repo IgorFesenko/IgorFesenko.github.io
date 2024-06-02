@@ -29,7 +29,8 @@ Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry
 
 **Lecturer at the Department of Genetics** (2006-2015)  
 Russian State Agrarian University
-- Developing and teaching undergraduate courses in “Genetics,” "Molecular Biology," and "Molecular Genetics" 
+- Developing and teaching undergraduate courses in “Genetics,” "Molecular Biology," and "Molecular Genetics"
+  
 
 ## Projects 
 **Uncovering the role of microproteins in bacterial genomes** ([link](https://github.com/IgorFesenko/prokariotic_smORFs))  
@@ -40,8 +41,8 @@ Russian State Agrarian University
  
 **Analysis of plant and animal peptidomes** ([link](https://github.com/IgorFesenko/Peptidome_review))
 - Methods for the extraction and analysis of endogenous peptides were developed
-- 
 
+  
 ## Education
 
 **Dr.Sc. in Molecular Biology (Habilitation)** | Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow | 2022
