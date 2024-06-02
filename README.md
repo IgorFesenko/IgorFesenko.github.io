@@ -17,5 +17,7 @@ My unique background in both experimental studies and computational analysis ena
 
 ## Education
 **Dr.Sc. in Molecular Biology (Habilitation)** | Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow | 2022
-Courses, activities, or other details
+**Ph.D. in Genetics** | Russian State Agrarian University, Russia, Moscow | 2005
+**Diploma (MS) in biotechnology (with honor, highest distinction)** | Russian State Agrarian University, Russia, Moscow | 2001
+
 
