@@ -12,7 +12,7 @@ author:
   name: "Igor Fesenko"
   email: "fesigor@gmail.com"
 
-theme: jekyll-theme-cayman 
+theme: jekyll-theme-minimal 
 
 plugins:
   - jekyll-feed
