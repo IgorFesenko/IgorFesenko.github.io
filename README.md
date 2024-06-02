@@ -27,14 +27,23 @@ My unique background in both experimental studies and computational analysis ena
 Head of the Laboratory of System Analysis of Proteins and Peptides
 - Lead projects for analysis the role of peptides and microproteins in plant-microbe interactions
   
-**Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry** (2018-2022)
+**Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry** (2018-2022) 
 Group leader at the Laboratory of Functional genomics and Plant proteomics
 - Designing and coordinating research projects in the field of the system plant biology
 
-**Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry** (2011-2018)
+**Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry** (2011-2018) 
 Senior Researcher at the Laboratory of Proteomics
 - Designing and coordinating research projects in the field of the system plant biology
 
-**Russian State Agrarian University** (2006-2015)
+**Russian State Agrarian University** (2006-2015) 
 Lecturer at the Department of Genetics
 - Developing and teaching undergraduate courses in “Genetics,” "Molecular Biology," and "Molecular Genetics" 
+
+## Projects
+**Project 1** (link to project site or GitHub repo)  
+- Description of tech used and what the project involved/accomplished
+- Accomplishment 
+
+**Project 2** (link)
+- Description 
+- Accomplishment
