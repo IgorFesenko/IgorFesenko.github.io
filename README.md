@@ -21,8 +21,6 @@ My unique background in both experimental studies and computational analysis ena
 
 **Ph.D. in Genetics** | Russian State Agrarian University, Russia, Moscow | 2005
 
-**Diploma (MS) in biotechnology (with honor, highest distinction)** | Russian State Agrarian University, Russia, Moscow | 2001
-
 ## Experience 
 **Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry** (2022-2023)   
 Head of the Laboratory of System Analysis of Proteins and Peptides
