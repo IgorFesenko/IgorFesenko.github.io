@@ -16,6 +16,7 @@ My unique background in both experimental studies and computational analysis ena
 - Skilled at protein structure prediction (ESMFold, AlphaFold2, foldseek, DALI)
 
 ## Education
+
 **Dr.Sc. in Molecular Biology (Habilitation)** | Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow | 2022
 
 **Ph.D. in Genetics** | Russian State Agrarian University, Russia, Moscow | 2005
@@ -35,11 +36,11 @@ Group leader at the Laboratory of Functional genomics and Plant proteomics
 Senior Researcher at the Laboratory of Proteomics
 - Designing and coordinating research projects in the field of the system plant biology
 
-**Russian State Agrarian University** (2006-2015) 
+**Russian State Agrarian University** (2006-2015)  
 Lecturer at the Department of Genetics
 - Developing and teaching undergraduate courses in “Genetics,” "Molecular Biology," and "Molecular Genetics" 
 
-## Projects
+## Projects 
 **Uncovering the role of microproteins in bacterial genomes** ([link](https://github.com/IgorFesenko/prokariotic_smORFs))  
 - Description of tech used and what the project involved/accomplished
 - Accomplishment 
