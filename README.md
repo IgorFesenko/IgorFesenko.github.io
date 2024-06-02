@@ -52,6 +52,7 @@ Russian State Agrarian University
 Book Chapter:
 1. Fesenko I, Khazigaleeva R, Govorun V, Ivanov V.  (2018). Analysis of Endogenous Peptide Pools of Physcomitrella patens Moss. Methods Mol Biol. 1719:395-405. doi: 10.1007/978-1-4939-7537-2_27. PMID: 29476527. 
 2. Lyapina, I., Fesenko, I. (2024). Intracellular and Extracellular Peptidomes of the Model Plant, Physcomitrium patens. In: Schrader, M., Fricker, L.D. (eds) Peptidomics. Methods in Molecular Biology, vol 2758. Humana, New York, NY. https://doi.org/10.1007/978-1-0716-3646-6_20
+   
 Journal publications:
 1. Mamaeva A, Lyapina I, Knyazev A, Golub N, Mollaev T, Chudinova E, Elansky S, Babenko VV, Veselovsky VA, Klimina KM, Gribova T, Kharlampieva D, Lazarev V, Fesenko I. RALF peptides modulate immune response in the moss Physcomitrium patens. Front. Plant Sci. 2023 Jan 27;14:1077301.
 2. Sedlov IA, Fesenko I. Methods for Analysis of Interactome of Microproteins Encoded by Short Open Reading Frames. Russ. J. Bioorganic Chem. Springer; 2023;49(4):717–30.
