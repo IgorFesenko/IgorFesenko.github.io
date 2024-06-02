@@ -12,8 +12,8 @@ author:
   name: "Igor Fesenko"
   email: "fesigor@gmail.com"
 
-#theme: jekyll-theme-minimal 
-theme: jekyll-al-folio
+theme: jekyll-theme-minimal 
+#theme: jekyll-al-folio
 
 plugins:
   - jekyll-feed
