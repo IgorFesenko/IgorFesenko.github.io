@@ -17,7 +17,24 @@ My unique background in both experimental studies and computational analysis ena
 
 ## Education
 **Dr.Sc. in Molecular Biology (Habilitation)** | Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, Moscow | 2022
+
 **Ph.D. in Genetics** | Russian State Agrarian University, Russia, Moscow | 2005
+
 **Diploma (MS) in biotechnology (with honor, highest distinction)** | Russian State Agrarian University, Russia, Moscow | 2001
 
+## Experience
+**Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry** (2022-2023)   
+Head of the Laboratory of System Analysis of Proteins and Peptides
+- Lead projects for analysis the role of peptides and microproteins in plant-microbe interactions
+  
+**Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry** (2018-2022)
+Group leader at the Laboratory of Functional genomics and Plant proteomics
+- Designing and coordinating research projects in the field of the system plant biology
 
+**Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry** (2011-2018)
+Senior Researcher at the Laboratory of Proteomics
+- Designing and coordinating research projects in the field of the system plant biology
+
+**Russian State Agrarian University** (2006-2015)
+Lecturer at the Department of Genetics
+- Developing and teaching undergraduate courses in “Genetics,” "Molecular Biology," and "Molecular Genetics" 
