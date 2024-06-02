@@ -15,7 +15,9 @@ author:
 theme: jekyll-theme-cayman 
 
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 social_links:
   twitter: https://twitter.com/FesenkoIgor
