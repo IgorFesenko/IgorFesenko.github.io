@@ -6,7 +6,7 @@ Ph.D. in Genetics with over a decade of extensive experience in proteomics, pept
 I am focused on understanding the function of peptides and microproteins encoded by small open reading frames (smORFs). I am particularly intrigued by the regulatory roles of peptides in immune response and in communication with the microbiota. 
 
 ## Skills
--Skilled in mass-spectrometry and data analysis of MS data: FragPipe, DIA-NN, MaxQuant, Mascot, X!Tandem, SearchGUI, PEAKS;
+- Skilled in mass-spectrometry and data analysis of MS data: FragPipe, DIA-NN, MaxQuant, Mascot, X!Tandem, SearchGUI, PEAKS;
 - Programming Languages: Python, R, Bash, SQL
 - Good experience in data analysis and visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, stats, and more
 - Skilled at Ribo-seq, RNA-seq и nanopore sequencing: Bowtie, Hisat2, Trimgalore, Trimmomatic, FeatureCounts, edgeR, Guppy 4, minimap, StringTie, scanpy
