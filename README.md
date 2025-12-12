@@ -1,20 +1,24 @@
 # Igor Fesenko, PhD
 
 ## Summary
-Ph.D. in Genetics with over a decade of extensive experience in scientific research, multi-omics data analysis, and visualization, as well as statistical analysis. My responsibilities include designing and coordinating research projects, preparing manuscripts, writing grant proposals, managing grant applications, and leading interdisciplinary research teams.
+Ph.D. in Genetics with over a decade of extensive experience in proteomics, peptidomics, multi-omics data analysis, and visualization, as well as statistical analysis. My responsibilities include designing and coordinating research projects, preparing manuscripts, writing grant proposals, managing grant applications, and leading interdisciplinary research teams.
 
-I am focused on understanding the molecular mechanisms that regulate plant stress response. I am particularly intrigued by the regulatory roles of peptides in immune response and in communication with the plant microbiota under stress conditions. In my point of view, the peptide regulators have major potential for crop improvement strategies.
+I am focused on understanding the function of peptides and microproteins encoded by small open reading frames (smORFs). I am particularly intrigued by the regulatory roles of peptides in immune response and in communication with the microbiota. 
 
 ## Skills
+-Skilled in mass-spectrometry and data analysis of MS data: FragPipe, DIA-NN, MaxQuant, Mascot, X!Tandem, SearchGUI, PEAKS;
 - Programming Languages: Python, R, Bash, SQL
 - Good experience in data analysis and visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, stats, and more
-- Effective in mass-spectrometry data analysis: MaxQuant, Mascot, X!Tandem, SearchGUI, PEAKS;
 - Skilled at Ribo-seq, RNA-seq и nanopore sequencing: Bowtie, Hisat2, Trimgalore, Trimmomatic, FeatureCounts, edgeR, Guppy 4, minimap, StringTie, scanpy
 - Effective in alignment of DNA and protein sequences (MAFFT, Clustal, Muscle, T-coffee, etc.) and phylogenetic analysis (Phylip package, PhyML, MEGA, HyPhy, etc.)
 - Skilled at protein structure prediction (ESMFold, AlphaFold2, foldseek, DALI)
 
 
 ## Experience 
+**Postdoctoral Associate (2025-present)
+Massachusetts Institute of Technology
+- Postdoc in Feng Zhang Lab
+
 **Head of the Laboratory of System Analysis of Proteins and Peptides** (2022-2023)   
 Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry
 - Lead projects for analysis the role of peptides and microproteins in plant-microbe interactions
@@ -57,6 +61,12 @@ Book Chapter:
 2. Lyapina, I., **Fesenko, I**. (2024). Intracellular and Extracellular Peptidomes of the Model Plant, Physcomitrium patens. In: Schrader, M., Fricker, L.D. (eds) Peptidomics. Methods in Molecular Biology, vol 2758. Humana, New York, NY. https://doi.org/10.1007/978-1-0716-3646-6_20
    
 Journal publications:
+- Fesenko I, Shabalina S., Storz G., Koonin E.V. De novo origin of numerous microproteins in enterobacteria. Nucleic Acids Res. 2025 (Accepted)
+- Fesenko I, Sahakyan,H., Dhyani,R., Shabalina,S.A., Storz,G. and Koonin,E.V. (2025) The hidden bacterial microproteome. Mol. Cell, 10.1016/j.molcel.2025.01.025.
+- Lyapina, I., Ganaeva, D., … Fesenko I. (2025) Comparative analysis of small secreted peptide signaling during defense
+response: insights from vascular and non-vascular plants. Physiologia Plantarum, 177(2), e70147.
+- Azarkina R., Makeeva A., … Fesenko I. (2025) The Proteomic and Peptidomic Response of Wheat (Triticum aestivum
+L.) to Drought Stress. Plants 14 (14), 2168
 1. Mamaeva A, Lyapina I, Knyazev A, Golub N, Mollaev T, Chudinova E, Elansky S, Babenko VV, Veselovsky VA, Klimina KM, Gribova T, Kharlampieva D, Lazarev V, **Fesenko I**. RALF peptides modulate immune response in the moss Physcomitrium patens. Front. Plant Sci. 2023 Jan 27;14:1077301.
 2. Sedlov IA, **Fesenko I**. Methods for Analysis of Interactome of Microproteins Encoded by Short Open Reading Frames. Russ. J. Bioorganic Chem. Springer; 2023;49(4):717–30.
 3. Glushkevich A, Spechenkova N, **Fesenko I**, Knyazev A, Samarskaya V, Kalinina NO, Taliansky M, Love AJ. Transcriptomic Reprogramming, Alternative Splicing and RNA Methylation in Potato (Solanum tuberosum L.) Plants in Response to Potato Virus Y Infection. Plants. 2022 Feb 25;11(5). 
