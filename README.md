@@ -65,11 +65,11 @@ Book Chapter:
 2. Lyapina, I., **Fesenko, I**. (2024). Intracellular and Extracellular Peptidomes of the Model Plant, Physcomitrium patens. In: Schrader, M., Fricker, L.D. (eds) Peptidomics. Methods in Molecular Biology, vol 2758. Humana, New York, NY. https://doi.org/10.1007/978-1-0716-3646-6_20
    
 Journal publications:
-- Fesenko I, Shabalina S., Storz G., Koonin E.V. De novo origin of numerous microproteins in enterobacteria. Nucleic Acids Res. 2025 (Accepted)
-- Fesenko I, Sahakyan,H., Dhyani,R., Shabalina,S.A., Storz,G. and Koonin,E.V. (2025) The hidden bacterial microproteome. Mol. Cell, 10.1016/j.molcel.2025.01.025.
-- Lyapina, I., Ganaeva, D., … Fesenko I. (2025) Comparative analysis of small secreted peptide signaling during defense
+- **Fesenko I**, Shabalina S., Storz G., Koonin E.V. De novo origin of numerous microproteins in enterobacteria. Nucleic Acids Res. 2025 (Accepted)
+- **Fesenko I**, Sahakyan,H., Dhyani,R., Shabalina,S.A., Storz,G. and Koonin,E.V. (2025) The hidden bacterial microproteome. Mol. Cell, 10.1016/j.molcel.2025.01.025.
+- Lyapina, I., Ganaeva, D., … **Fesenko I.** (2025) Comparative analysis of small secreted peptide signaling during defense
 response: insights from vascular and non-vascular plants. Physiologia Plantarum, 177(2), e70147.
-- Azarkina R., Makeeva A., … Fesenko I. (2025) The Proteomic and Peptidomic Response of Wheat (Triticum aestivum
+- Azarkina R., Makeeva A., … **Fesenko I.** (2025) The Proteomic and Peptidomic Response of Wheat (Triticum aestivum
 L.) to Drought Stress. Plants 14 (14), 2168
 - Mamaeva A, Lyapina I, Knyazev A, Golub N, Mollaev T, Chudinova E, Elansky S, Babenko VV, Veselovsky VA, Klimina KM, Gribova T, Kharlampieva D, Lazarev V, **Fesenko I**. RALF peptides modulate immune response in the moss Physcomitrium patens. Front. Plant Sci. 2023 Jan 27;14:1077301.
 - Sedlov IA, **Fesenko I**. Methods for Analysis of Interactome of Microproteins Encoded by Short Open Reading Frames. Russ. J. Bioorganic Chem. Springer; 2023;49(4):717–30.
