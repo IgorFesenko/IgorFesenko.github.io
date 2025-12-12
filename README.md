@@ -19,6 +19,10 @@ I am focused on understanding the function of peptides and microproteins encoded
 Massachusetts Institute of Technology
 - Postdoc in Feng Zhang Lab
 
+**Visiting Researcher** (2023-2025)
+National Institutes of Health (NIH)
+- Visiting researcher at Evolutionary Biology group (NCBI/NLM)
+
 **Head of the Laboratory of System Analysis of Proteins and Peptides** (2022-2023)   
 Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry
 - Lead projects for analysis the role of peptides and microproteins in plant-microbe interactions
